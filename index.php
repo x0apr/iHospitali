@@ -50,6 +50,7 @@
 
         <div class="form-group">
           <input type="submit" class="btn btn-primary" value="Login">
+          <input type="reset" name="" class="btn btn-danger">
         </div>
           
       </form>
