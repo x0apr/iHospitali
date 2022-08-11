@@ -5,7 +5,6 @@
     } 
 ?>
 <link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="jumbotron.css" rel="stylesheet">
 <?php 
   include("header.php");
   include("library.php");

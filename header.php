@@ -7,9 +7,7 @@
 <html lang="en">
   <head>
     <title> iHospitali </title>
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"> -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- <link href="jumbotron.css" rel="stylesheet"> -->
   </head>
   <body style="background-image: linear-gradient(to bottom right,#7979d2 0%, #b3b3e6 100%);">
       <div class="container" style="padding-top: 10px;">
