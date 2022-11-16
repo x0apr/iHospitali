@@ -1,4 +1,4 @@
 # iHospitali
-a hospital information management system that will be puting more emphasis on drug tracking to reduce drug theft in goverment health facilities 
+a hospital information management system MVP built as a internship project
 
 For testing, find it at [ihospitali.herokuapp.com](https://ihospitali.herokuapp.com)
